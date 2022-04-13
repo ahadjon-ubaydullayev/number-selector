@@ -28,7 +28,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['number-selector.herokuapp.com', 'ed13-95-214-210-201.ngrok.io', '127.0.0.1']
 
-
+ 
 # Application definition
 
 INSTALLED_APPS = [
